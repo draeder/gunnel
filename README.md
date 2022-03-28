@@ -1,2 +1,2 @@
 # gunnel
-1:1 secure tunnel over Gun
+A 1:1 secure tunnel over Gun
