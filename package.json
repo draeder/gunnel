@@ -1,0 +1,29 @@
+{
+  "name": "gunnel",
+  "version": "1.0.0",
+  "description": "A 1:1 secure tunnel over Gun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draeder/gunnel.git"
+  },
+  "keywords": [
+    "p2p",
+    "decentralized",
+    "tunnel",
+    "gun",
+    "sea"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/draeder/gunnel/issues"
+  },
+  "homepage": "https://github.com/draeder/gunnel#readme",
+  "dependencies": {
+    "gun": "^0.2020.1236"
+  }
+}
